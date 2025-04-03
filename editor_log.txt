@@ -1,0 +1,4 @@
+Number of arguments: 3
+Argument 0: ./editor
+Argument 1: hi
+Argument 2: hello
